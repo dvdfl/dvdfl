@@ -34,6 +34,6 @@ I'm David, a student at Brigham Young University-Idaho interested in Computer sc
 
 ## Let's Connect!
 
-- Here is my [www.linkedin.com/in/davidflrs]www.linkedin.com/in/davidflrs profile
+- Here is my [LinkedIn](www.linkedin.com/in/davidflrs) profile
 
 Feel free to explore my repositores with some different projects on different technologies.
