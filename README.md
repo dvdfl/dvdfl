@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **dvdfl/dvdfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# David F
+
+Hello!
+
+I'm David, a student at Brigham Young University-Idaho interested in Computer science, data science, web development, mobile development and AI. Welcome to my GitHub profile!
+
+## About Me
+
+- Current Software Developer student at BYU Idaho
+- Expecting to complete my degree and begin working as Software Developer
+- I have experience with Web development and MS-SQL databases
+
+## Technologies and Tools
+
+- Proficient in: C#, T-SQL, JavaScript, Type Script and HTML.
+- Skills: Python, DBA, Power BI/Reporting Services and SharePoint
+
+## Let's Connect!
+
+- Here is my [www.linkedin.com/in/davidflrs]www.linkedin.com/in/davidflrs profile
+
+Feel free to explore my repositores with some different projects on different technologies.
